@@ -15,6 +15,8 @@ namespace TestGitHub
             Console.WriteLine("Test 3!");
 
             Console.WriteLine("Test 4!");
+
+            Console.WriteLine("Test 5!");
         }
     }
 }
