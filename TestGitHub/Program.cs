@@ -9,6 +9,8 @@ namespace TestGitHub
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Test 1!");
+
+            Console.WriteLine("Test 2!");
         }
     }
 }
